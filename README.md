@@ -1,7 +1,7 @@
 # PegaNotasGINFES
 <br/>Automatização do download de notas fiscais de serviços nos municípios que utilizam o sistema GINFES
 
-<br/>Script em Python que busca e baixa as notas em HTML apenas com o número e o código de identificação listados em linhas de um excel
+<br/>Script em Python que busca e baixa as notas em HTML apenas com o número e o código de verificação listados em linhas de um excel
 
 # Requisitos
 
