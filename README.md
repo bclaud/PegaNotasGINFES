@@ -13,7 +13,7 @@
 <br/>https://openpyxl.readthedocs.io/en/stable/
 <br/>https://requests.readthedocs.io/en/master/
 
-# Útilização
+# Utilização
 
 <br/>Dentro do script há comentários do que deverá ser alterado antes de sua execução. Repetindo que os números das notas deverão estar na Coluna A e os Códigos de verificação na coluna B, considerando a linha 1 o cabeçalho.
 
